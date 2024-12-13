@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1,
+        "nama": "Alun-Alun Gresik",
+        "lokasi": "Jl. KH. Wachid Hasyim, Bedilan, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi": "Di sekitar kawasan Alun-Alun Gresik terdapat pedagang kuliner yang beragam, terdapat taman berbentuk laba-laba dan labirin.",
+        "foto1": "https://drive.google.com/uc?export=view&id=1IY3zkzcQsu1H9i7MaHH0pm-oJSfO8YvF",
+        "foto2": "https://drive.google.com/uc?export=view&id=1YKu1ZlU7p72oWUC1-KktOqrtArsQp5TS",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 2,
+        "nama": "Masjid Jami' Gresik",
+        "lokasi": "Jl. KH. Wachid Hasyim No.6, Pekauman, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi": "Gresik merupakan salah satu kota yang identik dengan religi islam dengan julukan Kota Santri. Masjid Jami' menjadi patokan kebijakan oleh masjid-masjid di sebuah kota termasuk Gresik.  Terdapat Makam Habib Abu Bakar di sebelah Masjid Jami'. Makamnya bersanding dengan Makam Habib Alwi bin Muhammad Hasyim Assegaf.",
+        "foto1": "https://drive.google.com/uc?export=view&id=1-1vTz87fLBb110WRLpwAonPOOMUb2dEy",
+        "foto2": "https://drive.google.com/uc?export=view&id=1p0eqBJexPHnIN8QhRebPHaarT81GvIXC",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 3,
+        "nama":"Masjid Malik Ibrahim",
+        "lokasi":"Malik Ibrahim, Gapuro Sukolilo, Bedilan, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Maulana Malik Ibrahim datang ke Desa Leran pada tahun1389 M, kemudian mendirikan Masjid dan nama “Pesucinan” diambil dengan tujuan untuk mensucikan masyarakat setempat yang mayoritas beragama Hindu-Buddha.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1ECxh9aqoc9mlZPedti16nFB6oXJp7M0G",
+        "foto2":"https://drive.google.com/uc?export=view&id=1V22oLp5aj63uGezKHsZ02_a3fmksq9VX",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 4,
+        "nama":"Kampung Kemasan",
+        "lokasi":"Jl. Raden Santri Gg. 3 No.2, Bedilan, Kebungson, Kec. Gresik, Kabupaten Gresik, Jawa Timur ",
+        "deskripsi":"Salah satu bukti kalau bangunannya bergaya China adalah terbawa pengaruh oleh Bak Liong seorang saudagar dari China yang terkenal sebagai pembuat emas.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1vbMtruHVoDTP2DOMFNOECn8TMZGHadNF",
+        "foto2":"https://drive.google.com/uc?export=view&id=1XbhbYczuN8FeFb7GxpSF4GZZUo_sziRZ",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 5,
+        "nama":"Pantai Delegan",
+        "lokasi":"Jl. Pasir Putih No.16, Rejodadi, Pasir Putih, Kecamatan Panceng.",
+        "deskripsi":"Air laut Pantai Dengan jernih dan ombak cukup stabil. Wisatawan dapat menemukan banyak spot foto. Fasilitas Pantai ini lengkap, terdapat kamar mandi, mushola, ayunan gazebo, dan terdapat penyewaan perahu wisata.",
+        "foto1":"https://drive.google.com/uc?export=view&id=10-VsOOP-TeuzPVrnTXLGLcV3VmEcLCqI",
+        "foto2":"https://drive.google.com/uc?export=view&id=1am3GukPkHNjq9jEdPDM0KRa5oKKukvaY",
+        "tiket": "Rp. 20.000"
+    },
+    {
+        "id": 6,
+        "nama":"Kelenteng Kim Hin Kiong",
+        "lokasi":"Jl. DR. Setia Budi Gg. Klentheng No.56, Bedilan, Pulopancikan, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Kelenteng ini dibangun pada tahun 1153. Kelenteng ini merupakan tempat peribadatan umat Tridarma (Taoisme, Budhis, Konfusius)",
+        "foto1":"https://drive.google.com/uc?export=view&id=1lI5GvmZVmRZFuMGNiN2dBwmAeqUTxmbA",
+        "foto2":"https://drive.google.com/uc?export=view&id=1Y_Vmgb453xHiMhnWaRd85nHJBeWNYfym",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 7,
+        "nama":"Makam Maulana Malik Ibrahim",
+        "lokasi":"Jl. Malik Ibrahim No.52-62, Gapuro Sukolilo, Bedilan, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Bangunan Makam Maulana Malik Ibrahim memiliki ciri khas, terdapat batu nisan dan gaya tulisan Arab yang terdapat pada Makam. Makam ini menjadi tempat ziarah bagi umat muslim.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1LKKCArGvCnTJ3xIYMX_jAyKLo6vNsx8Y",
+        "foto2":"https://drive.google.com/uc?export=view&id=1oZEknyNIIqpnx0io5jKrxCXCWk_7jiJm",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 8,
+        "nama":"Makam Sunan Giri",
+        "lokasi":"Jl. Sunan Giri, Pedukuhan, Kebomas, Kec. Kebomas, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Fasilitas berupa tempat parkir, dan juga terdapat fasilitas penunjang antara lain masjid giri. Dinding terdiri dari panel tumbuh-tumbuhan. Masih banyak motif-motif yang terdapat di sekitar gapuro.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1LsQLvZeUzw3Y0IJxn__5xnvN39CTUQU6",
+        "foto2":"https://drive.google.com/uc?export=view&id=1dbiEkquBATHaZBK-DzKk6UqsnRxEMbEU",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 9,
+        "nama":"Makam Siti Fatimah Binti Maimun",
+        "lokasi":"Jl. Raya Manyar, Pesantren, Peganden, Kec. Manyar, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Peran terletak di pesisir utara Pulau Jawa yang menjadi tempat permukiman para perantau China. Terbukti adanya sisa-sisa kehidupan Bandar abad 10-15 m dengan sebutan situs Pasucinan.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1nLJMHB0S0eRZlWESSBwg8RMj9sYjj_Jc",
+        "foto2":"https://drive.google.com/uc?export=view&id=1pH3RvGyZW2OxMWi5CWccAo3Ur2j-2yeL",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 10,
+        "nama":"Makam Putri Cempa",
+        "lokasi":"Dalem, Sidokumpul, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Makam Putri Cempa terletak 2 km disebelah timur bekas komplek Kedaton Giri. Cungkup Makam kearah selatan dan beratap joglo.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1HJbkAwAojwsACx3jJwxzQn00lVEurhQl",
+        "foto2":"https://drive.google.com/uc?export=view&id=152nBuOzpGbh3ik2vXbd48AGStZuHkuOm",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 11,
+        "nama":"Situs Giri Kedaton",
+        "lokasi":"Jl. Sunan Giri XIII, Pedukuhan, Kebomas, Kec. Kebomas, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Menurut sumber sejarah, Giri Kedaton merupakan istana yang didirikan pada tahun 1487. Giri Kedaton didirikan oleh Sunan Giri berdasarkan petunjuk Syeck Maulan Iskhak (Ayah Sunan Giri) atas kesamaan segemggam tanah yang dibawah Samudra Pasai. Giri Kedaton berasal dari kata Datu yang memiliki arti Raja. Kata datu mengalami berubahan vokal ketika didengar dan disebutkan oleh para penduduk. Hal tersebut menjadikan perubahan kata datu menjadi Kedatuan atau Kedaton.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1R5xkZzuT0x8nLkn7yy2RTAi3b68cdt1h",
+        "foto2":"https://drive.google.com/uc?export=view&id=1ubCgtPTsUMUbd7MAtFEt06yNBFWVLtr6",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 12,
+        "nama":"Pantai Karang Kering",
+        "lokasi":"Jl. Kapten Darmo Sugondo, Karang Kering, Karangkering, Kec. Kebomas, Kabupaten Gresik",
+        "deskripsi":"Pantai Karang Kering memiliki spot foto beragam. Fasilitas lengkap, seperti kamar mandi, mushola, rumah makan dan juga wahana menarik. ",
+        "foto1":"https://drive.google.com/uc?export=view&id=1YCprNLodxfE7wi4F26MQlFUhT66gOvW7",
+        "foto2":"https://drive.google.com/uc?export=view&id=108QT_EwAVbvroQOo0hDp7HccsCkZU-5p",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 13,
+        "nama":"Gajah Mungkur",
+        "lokasi":"Jl. Nyai Ageng Arem Arem No.38, Kemuteran, Pekelingan, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Konon pada masa lampau pemilik rumah sengaja membangun patung gajah pada posisi membelakangi jalan raya untuk jor-joran (saingan) menunjukkan kekayaan dengan rumah yang ada di depannya. Namun kabar tersebut ditepis oleh salah satu anak dari pemilik rumah, dan menyebutkan bahwa patung gajah tersebut di bangun membelakangi jalan raya dan menghadap ke teras rumah agar patuh bisa dipandang dan dinikmati sambil duduk diteras rumah. Bangunan ini dibangun oleh H. Djaelani putra keempat dari H. Oemar Bin Ahmad (yang membuat rumah rumah di kampung Kemasan) bangunan Gajah Mungkur yang kental dengan gaya kolonial, didirikan pada 1896 hingga kini masih seperti aslinya.",
+        "foto1":"https://drive.google.com/uc?export=view&id=130O6bnuyqhgH2rfwUWahoO7Do5VxzxK3",
+        "foto2":"https://drive.google.com/uc?export=view&id=1Iy7HRl0_KDKPk0keRrorxr8UojkFI80O",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 14,
+        "nama":"Makam Nyi Ageng Pinatih",
+        "lokasi":"Jl. Kh. Kholil 25 Kemuteran, Kemuteran, Kebungson, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Makam Nyi Ageng Pinatih merupakan salah satu tokoh wanita islam yang sangat berjasa, karena ia adalah ibu angkat dari Sunan Giri.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1jLy2Y-dYl-T-EMriuNmjAYvr8RzmPGcP",
+        "foto2":"https://drive.google.com/uc?export=view&id=1jLy2Y-dYl-T-EMriuNmjAYvr8RzmPGcP",
+        "tiket": "Gratis"
+    },
+    {
+        "id": 15,
+        "nama":"Wisata Setigi",
+        "lokasi":"Slolok, Sekapuk, Kec. Ujungpangkah, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Setigi adalah tempat wisata dengan pemandangan alam bukit kapur yang dulunya merupakan tambang kapur rakyat Desa Sekapuk hingga sekarang. Setigi adalah kepanjangan dari selo, tirto, giri. Dalam Bahasa Sansekerta berarti batu, air, gunung.",
+        "foto1":"https://drive.google.com/uc?export=view&id=15SsiQiNXuqGG2RddMyqcoPsZkcvVttUj",
+        "foto2":"https://drive.google.com/uc?export=view&id=1Pf2-6TeVbtex7JuiOLsE_P1oAL3GQqcO",
+        "tiket": "Rp. 10.000 - Rp. 20.000"
+    },
+    {
+        "id": 16,
+        "nama":"Bandar Grissee",
+        "lokasi":"Bedilan, Kebungson, Kec. Gresik, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Dinamakan “Bandar” karena letaknya dekat dengan pelabuhan, Bandar Grissee adalah pusat perdagangan  dan telah ada sejak sekitar tahun 1400 M. Bandar Grissee menjadi salah satu pusat penting dalam perdagangan rempah-rempah selama masa pemerintahan Majapahit. Terdapat beberapa bangunan kuno yang menjadi cagar budaya. Contohnya seperti gardu listrik suling, komplek rumah Gajah Mungkur, Kampung Kemasan,Kampung Pecinan, Kampung Arab,gedung DPR serta Pendopo Kab.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1xOiWNAI8V62avFY5YxsqRBwNzodDnGw8",
+        "foto2":"https://drive.google.com/uc?export=view&id=18ZNj26hUa8ouGCzO6b0Cxt7_JQTkSGoT",
+        "tiket": "Rp. 5000 - Rp. 10.000"
+    },
+    {
+        "id": 17,
+        "nama":"Wisata Wagos",
+        "lokasi":"Gosari, Kec. Ujungpangkah, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Wisata Alam dan Edukasi Gosari (Wagos) adalah wisata yang menawarkan wahana alam khas pedes¬aan dengan keindahan alam perbukitan kapur yang  mempesona.",
+        "foto1":"https://drive.google.com/uc?export=view&id=13YEXjeMuSKz7gA9OEAdRuP2ydAmw81x-",
+        "foto2":"https://drive.google.com/uc?export=view&id=1pLU45HCfGdr8mxB2Mg5FlldaXXrZb_P9",
+        "tiket": "Rp. 5000 - Rp. 10.000"
+    },
+    {
+        "id": 18,
+        "nama":"Banyuurip Mangrove Center",
+        "lokasi":"Banyulegi, Banyuurip, Kec. Ujungpangkah, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Saat berkunjung ke Banyuurip Mangrove Center kita akan disuguhi hutan mangrove yang lebat dan sejuk. Selain itu juga terdapat gazebo yang digunakan untuk duduk-duduk. Juga menjadi habitat bagi sekelompok burung bnagau di sekitar hutan mangrove.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1iAQZLGswDJy3MYC9PDqlYTfB9Zj1ruvf",
+        "foto2":"https://drive.google.com/uc?export=view&id=1QSjFTiKyj83vlVCET3fcjGuhnzsmyvqz",
+        "tiket": "Rp. 10.000"
+    },
+    {
+        "id": 19,
+        "nama":"Lontar Sewu",
+        "lokasi":"Hendrosari, Kec. Menganti, Kabupaten Gresik, Jawa Timur",
+        "deskripsi":"Di wisata Lontar Sewu wisatawan dapat menikmati sebuah tempat wisata yang menyatu dengan alam pedesaan. Tentunya ditambah dengan wahana edukasi yang sesuai bagi anak-anak.Mulai dari wisata air, taman, area bermain anak, spot foto, kuliner hingga aneka wisata edukasi dan lain sebagainya.",
+        "foto1":"https://drive.google.com/uc?export=view&id=1zxXyAVORwZ3nwRBKOIhzxUCvMe2a59dn",
+        "foto2":"https://drive.google.com/uc?export=view&id=1SXjS70jBj9p4QwDyxf87DDIUru_5RodS",
+        "tiket": "Rp. 8000 - Rp. 10.000"
+    }
+]

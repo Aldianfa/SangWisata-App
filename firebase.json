@@ -1,0 +1,1 @@
+{"database":{"rules":"database.rules.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"sangwisata-6517c","appId":"1:543062581909:android:f65fd3e3f017dc74e7f19c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"sangwisata-6517c","configurations":{"android":"1:543062581909:android:f65fd3e3f017dc74e7f19c"}}}}}}

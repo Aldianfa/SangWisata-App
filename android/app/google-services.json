@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "543062581909",
+    "firebase_url": "https://sangwisata-6517c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sangwisata-6517c",
+    "storage_bucket": "sangwisata-6517c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543062581909:android:f65fd3e3f017dc74e7f19c",
+        "android_client_info": {
+          "package_name": "com.example.sangwisata3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYBuFqdXq6eNKESUWXC2j4fpeHJclIwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
